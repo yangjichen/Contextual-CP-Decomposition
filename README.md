@@ -48,7 +48,7 @@ Contains 3 steps：
 
 `GDELT1.py`: Download a subset of GDELT dataset which covers the period from January, 2018 to December, 2018.
 
-`GDELT2.py`: Calculate the number of diplomatic events between the above 20 countries, and reorder the dataset as a tensor $\mathcal{Y} \in \mathbb{R}^{20*20*12}$.
+`GDELT2.py`: Calculate the number of diplomatic events between the above 20 countries, and reorder the dataset as a tensor.
 
 `GDELT3.py`: Explore the relationship between the country’s geopolitical power and the frequency of diplomatic events by using our algorithms.
 
